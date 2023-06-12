@@ -1,0 +1,2 @@
+for x,y in zip (range(1,19),range(11,29)):#
+  print(x,"+",y,"=",x+y)
